@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.page {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid blueviolet;
+}
+
+body{
+    font-family: arial;
+}
+
+
+.quantity button{
+    height: 40px;
+    width: 40px;
+}
+.quantity input{
+    height: 40px;
+    text-align: center;
+}
